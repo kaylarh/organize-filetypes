@@ -1,6 +1,4 @@
-v# organize-filetypes
-
-fileorganizer.py is a Python script to organize files into folders based on their file types.
+fileorganizer.py is a python program to organize files into folders based on their file types.
 
 If you would like to oragnize the files into different folder names, or differently based on file type you will need to edit the FILE_CATEGORIES portion of the code on line 8 through 16.
 

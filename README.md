@@ -8,8 +8,8 @@ The versatility of Python can also be appealing to system administrators who man
 
 When you run the program, it will prompt you in the terminal to specify which path you would like to have organized: 
 <br>
-`PS C:\Users\username\Documents\GitHub\organize-filetypes> & C:/Python312/python.exe c:/Users/username/Documents/GitHub/organize-filetypes/fileorganizer.py
-Enter the directory path to organize:` 
+`PS C:\Users\username\Documents\GitHub\organize-filetypes> & C:/Python312/python.exe c:/Users/username/Documents/GitHub/organize-filetypes/fileorganizer.py`<br>
+`Enter the directory path to organize:` 
 
 Specify with the exact path example: <br>
 `C:\Users\username\Pictures` if you would like to organize that user's pictures.

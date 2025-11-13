@@ -12,4 +12,4 @@ When you run the program, it will prompt you in the terminal to specify which pa
 Enter the directory path to organize:` 
 
 Specify with the exact path example: <br>
-C:\Users\username\Pictures if you would like to organize that user's pictures.
+`C:\Users\username\Pictures` if you would like to organize that user's pictures.

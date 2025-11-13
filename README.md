@@ -8,8 +8,8 @@ The use case of this is to quickly organize large amounts of files into organize
 
 The versatility of Python can also be appealing to system administrators who manage both macOS and Windows systems. Normally, you’d need to write a PowerShell script for Windows and a Bash script for macOS—but using Python allows you to create one script that works across both platforms, saving time and effort.
 
-When you run the program, it will prompt you in the terminal to specify which path you would like to have organized:
+When you run the program, it will prompt you in the terminal to specify which path you would like to have organized: /n
 <img width="1212" height="93" alt="image" src="https://github.com/user-attachments/assets/0edcab38-1051-4df8-821c-38629d39b716" />
 
-Specify with the exact path example: 
+Specify with the exact path example: /n
 C:\Users\username\Pictures if you would like to organize that user's pictures.
